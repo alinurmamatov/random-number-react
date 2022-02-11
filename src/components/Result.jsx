@@ -1,6 +1,6 @@
 const Result = (props) => {
     return(
-        <h4>Random Number: {props.final}</h4>
+        <h4 id="result">Random Number: {props.final}</h4>
     )
 }
 
